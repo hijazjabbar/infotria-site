@@ -98,8 +98,8 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold mb-1">Address</h3>
                         <p className="text-sm text-muted-foreground">
-                          91/31, Wattarpola Road<br />
-                          Mount Lavinia<br />
+                          05 - 1/5A, Joseph Lane<br />
+                          Colombo 04<br />
                           Sri Lanka
                         </p>
                       </div>
