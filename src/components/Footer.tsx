@@ -73,7 +73,7 @@ const Footer = () => {
             <h3 className="font-semibold mb-4">Follow Us</h3>
             <div className="flex gap-4">
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/share/1A4fWu9Bm8/?mibextid=wwXIfr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
@@ -91,7 +91,7 @@ const Footer = () => {
                 <Twitter className="h-5 w-5" />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/company/109626463"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
@@ -100,7 +100,7 @@ const Footer = () => {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/infotriasolutions?igsh=ZG44OHRpZXNyMGh5&utm_source=qr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"

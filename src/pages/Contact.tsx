@@ -113,7 +113,7 @@ const Contact = () => {
                   <h3 className="font-semibold mb-4">Follow Us</h3>
                   <div className="flex gap-4">
                     <a
-                      href="https://facebook.com"
+                      href="https://www.facebook.com/share/1A4fWu9Bm8/?mibextid=wwXIfr"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="p-2 rounded-lg bg-primary/10 text-primary hover:bg-primary hover:text-primary-foreground transition-colors"
@@ -131,7 +131,7 @@ const Contact = () => {
                       <Twitter className="h-5 w-5" />
                     </a>
                     <a
-                      href="https://linkedin.com"
+                      href="https://www.linkedin.com/company/109626463"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="p-2 rounded-lg bg-primary/10 text-primary hover:bg-primary hover:text-primary-foreground transition-colors"
@@ -140,7 +140,7 @@ const Contact = () => {
                       <Linkedin className="h-5 w-5" />
                     </a>
                     <a
-                      href="https://instagram.com"
+                      href="https://www.instagram.com/infotriasolutions?igsh=ZG44OHRpZXNyMGh5&utm_source=qr"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="p-2 rounded-lg bg-primary/10 text-primary hover:bg-primary hover:text-primary-foreground transition-colors"
@@ -221,7 +221,7 @@ const Contact = () => {
             <Card className="border-2 overflow-hidden">
               <div className="h-[400px] bg-muted/30 flex items-center justify-center">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.639!2d-122.0856086!3d37.4219999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1sen!2sus!4v1234567890"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d377.24170571945933!2d79.85610209884831!3d6.892863668272439!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25bdc1ff5b435%3A0x8ad28c4440e6b34f!2s5%20Joseph&#39;s%20Ln%2C%20Colombo!5e0!3m2!1sen!2slk!4v1763870773015!5m2!1sen!2slk!4v1699999999999"
                   width="100%"
                   height="400"
                   style={{ border: 0 }}
